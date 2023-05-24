@@ -1,6 +1,6 @@
 # Placement Material
 This repository is made by the primary contribution of three of us:
-#### Tanishq Chourishi 190895 BTech ME
+#### Tanishq Chourishi 190895 BTech ME 
 #### Prakhar Maheshwari 190616 BTech EE
 #### Udit Narayan Pandey 190920 BTech EE
 
